@@ -7,3 +7,6 @@
 # Class HLR Diagram
 ![image](https://user-images.githubusercontent.com/78853319/107765963-bec40880-6d58-11eb-8d66-771710794999.png)
 
+# Use Case HLR Diagram
+![image](https://user-images.githubusercontent.com/78853319/107766107-fcc12c80-6d58-11eb-9281-7d9c5dca1afd.png)
+
