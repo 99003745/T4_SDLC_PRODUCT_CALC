@@ -10,5 +10,9 @@
 # Class Diagram LLR Diagram
 ![image](https://user-images.githubusercontent.com/78853319/107766582-ad2f3080-6d59-11eb-9edc-c7b1794639ef.png)
 
+# Class Diagram LLR Diagram
+![image](https://user-images.githubusercontent.com/78853319/107766780-00a17e80-6d5a-11eb-9ea3-dc8f874711e5.png)
+
+
 
 
