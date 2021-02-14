@@ -23,3 +23,6 @@
 **6**.  **Online:**  These are the different types of calculator that you can find on the Internet that help people in various ways. For example, you may find online financial calculators that can help you figure out your auto loan or mortgage. Then there are health calculators that can calculate your body mass index given your weight and height. A calorie calculator can help you find out how many calories you need to consume so you can maintain a proper weight or lose weight.
 
 **Cost:**  Depends upon user
+
+![image](https://user-images.githubusercontent.com/78853340/107874191-c7921700-6edd-11eb-94fb-ccfceda54b4d.png)
+
