@@ -1,5 +1,6 @@
-#include<stdio.h>
-int main()
+#include<calculator_arithmetic.h>
+void calculator_arithmetic()
+
 {
     int operator,first,second;
     float num1,num2,sum,sub,mul,div,mod;
@@ -53,7 +54,7 @@ int main()
         break;
 
     }
-    return 0;
+    
 
 }
 
