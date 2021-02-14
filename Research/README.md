@@ -26,3 +26,36 @@
 
 ![image](https://user-images.githubusercontent.com/78853340/107874191-c7921700-6edd-11eb-94fb-ccfceda54b4d.png)
 
+
+ **STRENGTHS**  · multi utility · user friendly · compact design and easy to carry . low cost . all arithmetic functions with BMI and Area calculation
+
+**WEAKNESS**  · Does not support very complex calculations. . No Scientific calculation
+
+**OPPORTUNITIES**  · Useful for all age groups . Low cost, so can attract people wanting a simple and efficient calculator · Viable in all educational institutions
+
+**THREATS**  · Can't be used in scientific research works.
+
+
+## What
+
+ - The product used in solving equations which helps to reduce time in calculation
+ input as co efficient of powers of x
+ 
+## When 
+
+ - Students can use it in school and university related projects in solving the equations.
+
+## Where
+
+ - School, colleges, research labs, business organizations, will be able to easily use this calculator
+
+## Why
+
+ - Most of the people are not able to learn the use of complex calculator or put into good use. this will have a step by step user manual so it can be operated easily.
+
+## How
+
+ - This minimizes the user time for performing fast calculation of equations.
+
+
+
