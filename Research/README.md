@@ -36,3 +36,26 @@
 **THREATS**  · Can't be used in scientific research works.
 
 
+## What
+
+ - The product used in solving equations which helps to reduce time in calculation
+ input as co efficient of powers of x
+ 
+## When 
+
+ - Students can use it in school and university related projects in solving the equations.
+
+## Where
+
+ - School, colleges, research labs, business organizations, will be able to easily use this calculator
+
+## Why
+
+ - Most of the people are not able to learn the use of complex calculator or put into good use. this will have a step by step user manual so it can be operated easily.
+
+## How
+
+ - This minimizes the user time for performing fast calculation of equations.
+
+
+
