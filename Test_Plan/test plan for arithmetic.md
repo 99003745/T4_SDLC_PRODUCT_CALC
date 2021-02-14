@@ -1,4 +1,4 @@
-﻿# Test Plan for Airthmetic
+﻿# Test Plan for Arithmetic
 
  1.  Same sign should be added means, (+,+=+ & -,+=-)
  2. Divisible by zero gives 0
