@@ -1,8 +1,8 @@
 # High Level Requirement
 
-    1.Arithmetic Operation
+    1.Arithmetic Operations
     2.Roots And Powers
-    3.BMI and Area
+    3.BMI and Area of figures
     4.Second Order Equation.
 
 # Low Level Requirements
