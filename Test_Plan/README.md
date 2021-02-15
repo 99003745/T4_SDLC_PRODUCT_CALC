@@ -7,7 +7,7 @@
 |       HL_02  |   square root of negative number |  Error (Imaginary output) | Scenario Based |
 |      HL_03        |  if any of input is 0         |    Invalid        |    Requirement Based          |
 |        HL_04       |      if there are 2 variables and only 1 equation        |  invalid            |        Requirement Based         |
-| HL_10     |    if any input is 0 or negative                       |  Invalid                 |   Scenario based                  |
+| HL_05     |    if any input is 0 or negative                       |  Invalid                 |   Scenario based                  |
 
 
 
@@ -29,5 +29,6 @@
 | L_09     |    if denominator is 0                  |  Invalid                 |   Scenario aBased                 |
 | L_10     |    if height is 0 or negative                       |  Invalid                 |   Scenario based                  |
 | L_11     |    if weight is 0 or negative                       |  Invalid                 |   Scenario based                  |
-| L_12     |    if Radius of circle                       |  Invalid                 |   Scenario based                  |
+| L_12     |    if Radius of circle is zero or negative                      |  Invalid                 |   Scenario based                  |
+| L_13     |    if length of rectangle is 0 or negative                      |  Invalid                 |   Scenario based                  |
 Test cases
