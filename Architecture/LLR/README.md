@@ -17,4 +17,6 @@
 # llr diagram
 ![class diagram](https://user-images.githubusercontent.com/78856378/107915843-44c79580-6f8b-11eb-8f06-3bec47f40a72.png)
 
+![activity diagram](https://user-images.githubusercontent.com/78856378/107915941-6d4f8f80-6f8b-11eb-94e3-f24acb2d2532.png)
+
 
