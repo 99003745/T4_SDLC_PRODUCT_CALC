@@ -1,5 +1,5 @@
-#include<calculator_arithmetic.h>
+#include  "equation_operation.h"
 void main()
 {
-    calculator_arithmetic();
+    equation();
 }

@@ -1,9 +1,10 @@
 #include "equation_operation.h"
- float a,b,c;
+
+void equation()
+{
+   float a,b,c;
   int ch;
   float d,root1,root2;
-int equation(float a, float b, float c)
-{
     printf("Enter a, b and c of quadratic equation: ");
   scanf("%f%f%f",&a,&b,&c);
 
@@ -34,5 +35,5 @@ int equation(float a, float b, float c)
    printf("Roots of quadratic equation are: %.3f , %.3f",root1,root2);
   }
 
-  return 0; 
+
 }

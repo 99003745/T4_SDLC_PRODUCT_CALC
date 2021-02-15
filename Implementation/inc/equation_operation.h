@@ -5,6 +5,6 @@
 #include<math.h>
 
 
-int equation(float,float,float);
+void equation();
 
 #endif
