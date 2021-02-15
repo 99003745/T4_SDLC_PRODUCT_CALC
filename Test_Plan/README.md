@@ -28,4 +28,5 @@
 |         L_08         | Only 3 decimal digit shown                   |    nil              |    Requirement Based       |
 | L_09     |    if denominator is 0                  |  Invalid                 |   Scenario aBased                 |
 | L_10     |    if height is 0                       |  Invalid                 |   Scenario based                  |
+| L_11     |    if weight is 0                       |  Invalid                 |   Scenario based                  |
 Test cases
