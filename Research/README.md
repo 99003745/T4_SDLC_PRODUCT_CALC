@@ -5,7 +5,7 @@ It is the most basic type of calculator where basic operations are done using be
 
 **Cost : Rs 103onwards**
 
-2.  **Basic (General Purpose) Calculators:**  This is a compact model with an LCD screen showing a line for figures. The display can show 8 up to 12 digits, depending on the calculator model.
+**2.**  **Basic (General Purpose) Calculators:**  This is a compact model with an LCD screen showing a line for figures. The display can show 8 up to 12 digits, depending on the calculator model.
 
 **Cost: Rs 170 onwards**
 
