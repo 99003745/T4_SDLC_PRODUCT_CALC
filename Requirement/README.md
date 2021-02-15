@@ -18,5 +18,4 @@
     9.Cube
     10.Body Mass Index
     11.Area Calculation Circle Square Rectangle
-    12.1st order 
-    13.2nd order
+    12.2nd order
