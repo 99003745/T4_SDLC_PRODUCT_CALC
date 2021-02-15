@@ -28,7 +28,7 @@ int add(int operand1, int operand2);
 int subtract(int operand1, int operand2);
 
 /**
-*  multiply the operand1, operand2 and returns the result
+*  multiply the operand1, operand2 and returns theresult
 * @param[in] operand1 
 * @param[in] operand2 
 * @return Result of operand1 * operand2
