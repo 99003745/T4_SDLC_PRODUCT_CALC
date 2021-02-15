@@ -1,6 +1,6 @@
 # Research
 
-1.  **Abacus**: 
+**1.**  **Abacus**: 
 It is the most basic type of calculator where basic operations are done using beads.
 
 **Cost : Rs 103onwards**
