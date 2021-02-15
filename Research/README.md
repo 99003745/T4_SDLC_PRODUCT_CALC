@@ -28,7 +28,7 @@ It is the most basic type of calculator where basic operations are done using be
 ![image](https://user-images.githubusercontent.com/78853340/107874191-c7921700-6edd-11eb-94fb-ccfceda54b4d.png)
 
 
-SWOT Analysis
+**SWOT Analysis**
 
  **STRENGTHS**  
  · multi utility 
