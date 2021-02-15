@@ -7,7 +7,7 @@
 |       HL_02  |   square root of negative number |  Error (Imaginary output) | Scenario Based |
 |      HL_03        |  if any of input is 0         |    Invalid        |    Requirement Based          |
 |        HL_04       |      if there are 2 variables and only 1 equation        |  invalid            |        Requirement Based         |
-
+| HL_10     |    if any input is 0 or negative                       |  Invalid                 |   Scenario based                  |
 
 
 
