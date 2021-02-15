@@ -1,4 +1,6 @@
+
 #include <calculator_operations.h>
+#include "kinjal.h"
 
 /* Status of the operation requested */
 #define VALID   (1)
@@ -33,7 +35,7 @@ int main(int argc, char *argv[])
 void calculator_menu(void)
 {
     printf("\nAvailable Operations\n");
-    printf("\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5. Exit");
+    printf("\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5. bmi\n6. areac\n7. arear\n8. areas\n 20. Exit");
     printf("\n\tEnter your choice\n");
    
      //__fpurge(stdin);
@@ -98,6 +100,19 @@ void calculator_menu(void)
             getchar();
             break;
         case 5:
+                 bmi();
+                break;
+        case 6:
+                 areac();
+                break;
+        case 7:
+                arear();
+                break;
+        case 8:
+                 areas();
+                break;
+        
+        case 20:
             exit(0);
             break;
         default:

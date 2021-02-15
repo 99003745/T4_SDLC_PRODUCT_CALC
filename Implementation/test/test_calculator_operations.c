@@ -1,5 +1,6 @@
 #include "unity.h"
 #include <calculator_operations.h>
+#include "kinjal.h"
 
 /* Modify these two lines according to the project */
 #include <calculator_operations.h>
