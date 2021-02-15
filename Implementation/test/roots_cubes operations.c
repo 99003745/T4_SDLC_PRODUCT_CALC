@@ -35,7 +35,7 @@ int main()
 }
 
 /* Write all the test functions */ 
-void test_add(void) {
+void test_square(void) {
   TEST_ASSERT_EQUAL(30, add(10, 20));
   TEST_ASSERT_EQUAL(-10, add(10, -20));
 }
