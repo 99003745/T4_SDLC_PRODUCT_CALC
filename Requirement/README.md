@@ -1,7 +1,7 @@
 # High Level Requirement
 
     1.Arithmetic Operation
-    2.Roots And Power
+    2.Roots And Powers
     3.BMI and Area
     4.Second Order Equation.
 
