@@ -6,11 +6,11 @@
 #define PROJECT_NAME    "Calculator"
 
 /* Prototypes for all the test functions */
-void test_add(void);
-void test_add_testcase2(void);
-void test_subtract(void);
-void test_multiply(void);
-void test_divide(void);
+void test_square(void);
+
+void test_cube(void);
+void test_squarroot(void);
+void test_cubroot(void);
 
 /* Required by the unity test framework */
 void setUp(){}
