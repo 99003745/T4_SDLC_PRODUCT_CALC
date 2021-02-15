@@ -3,7 +3,7 @@
     1.Arithmetic Operation
     2.Roots And Power
     3.BMI and Area
-    4.Second Order Equation
+    4.Second Order Equation.
 
 # Low Level Requirements
 
