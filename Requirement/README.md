@@ -19,4 +19,5 @@
     10.Body Mass Index
     11.Area Calculation Circle
     12.Area Calculation Square
+    13.Area Calculation Rectangle
     13.2nd order
