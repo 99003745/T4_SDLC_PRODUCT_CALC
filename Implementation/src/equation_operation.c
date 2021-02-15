@@ -33,6 +33,7 @@ void equation()
    root1 = ( -b + sqrt(d)) / (2* a);
    root2 = ( -b - sqrt(d)) / (2* a);
    printf("Roots of quadratic equation are: %.3f , %.3f",root1,root2);
+   
   }
 
 
