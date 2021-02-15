@@ -10,3 +10,4 @@
 # Use Case HLR Diagram
 ![image](https://user-images.githubusercontent.com/78853319/107766107-fcc12c80-6d58-11eb-9281-7d9c5dca1afd.png)
 
+HLR Diagrams
