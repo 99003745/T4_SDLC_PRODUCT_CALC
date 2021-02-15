@@ -20,4 +20,4 @@
     11.Area Calculation Circle
     12.Area Calculation Square
     13.Area Calculation Rectangle
-    14.2nd order
+    14.2nd order linear equations
