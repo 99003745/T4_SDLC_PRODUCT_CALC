@@ -26,7 +26,7 @@
 |   L_06                               |   Divisible by zero                 |   0                   |        Scenario Based                          |
 |      L_07      | If 0 is divided by any no. give error                    |  Zero         |           Boundary Based         |  
 |         L_08         | Only 3 decimal digit shown                   |    nil              |    Requirement Based       |
-| L_09     |    if denominator is 0                  |  Invalid                 |   Scenario aBased                 |
+| L_09     |    if denominator is 0                  |  Invalid                 |   Scenario Based                 |
 | L_10     |    if height is 0 or negative                       |  Invalid                 |   Scenario based                  |
 | L_11     |    if weight is 0 or negative                       |  Invalid                 |   Scenario based                  |
 | L_12     |    if Radius of circle is zero or negative                      |  Invalid                 |   Scenario based                  |
