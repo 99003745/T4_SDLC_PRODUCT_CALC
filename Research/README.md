@@ -27,7 +27,12 @@
 ![image](https://user-images.githubusercontent.com/78853340/107874191-c7921700-6edd-11eb-94fb-ccfceda54b4d.png)
 
 
- **STRENGTHS**  · multi utility · user friendly · compact design and easy to carry . low cost . all arithmetic functions with BMI and Area calculation
+ **STRENGTHS**  
+ · multi utility 
+ · user friendly 
+ · compact design and easy to carry 
+ . low cost 
+ . all arithmetic functions with BMI and Area calculation
 
 **WEAKNESS**  · Does not support very complex calculations. . No Scientific calculation
 
