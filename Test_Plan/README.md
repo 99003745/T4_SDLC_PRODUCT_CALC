@@ -29,3 +29,4 @@
 | L_09     |    if denominator is 0                  |  Invalid                 |   Scenario aBased                 |
 
 
+Test cases
