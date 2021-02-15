@@ -14,5 +14,7 @@
 ![image](https://user-images.githubusercontent.com/78853319/107766780-00a17e80-6d5a-11eb-9ea3-dc8f874711e5.png)
 
 
-LLR Diagrams
+# llr diagram
+![class diagram](https://user-images.githubusercontent.com/78856378/107915843-44c79580-6f8b-11eb-8f06-3bec47f40a72.png)
+
 
