@@ -38,7 +38,10 @@
 · Does not support very complex calculations. 
 . No Scientific calculation
 
-**OPPORTUNITIES**  · Useful for all age groups . Low cost, so can attract people wanting a simple and efficient calculator · Viable in all educational institutions
+**OPPORTUNITIES**  
+· Useful for all age groups 
+. Low cost, so can attract people wanting a simple and efficient calculator 
+· Viable in all educational institutions
 
 **THREATS**  · Can't be used in scientific research works
 
