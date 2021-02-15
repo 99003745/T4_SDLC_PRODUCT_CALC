@@ -1,4 +1,4 @@
-#include  "equation_operation.h"
+#include "equation_operation.h"
 void main()
 {
     equation();
