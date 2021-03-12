@@ -121,10 +121,10 @@ void test_square(void) {
 }
 
 
-void test_equation(void)
+/*void test_equation(void)
 {
     TEST_ASSERT_EQUAL(3, equation(1,2,3));
-}
+}*/
 
 void test_cube(void) {
   TEST_ASSERT_EQUAL(27, cube(3));
