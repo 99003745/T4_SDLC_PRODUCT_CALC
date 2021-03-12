@@ -1,6 +1,7 @@
-
+#include "equation_operation.h"
 #include <calculator_operations.h>
 #include "kinjal.h"
+
 
 /* Status of the operation requested */
 #define VALID   (1)
@@ -124,4 +125,13 @@ int valid_operation(int operation)
 {
     /* Check if the operation is a valid operation */
     return ((ADD <= operation) && (EXIT >= operation)) ? VALID: INVALID;
+}
+
+
+
+
+void main()
+{
+    equation();
+    
 }
