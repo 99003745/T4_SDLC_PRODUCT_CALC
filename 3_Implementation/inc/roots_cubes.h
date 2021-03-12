@@ -3,8 +3,8 @@
 * Calculator application with 4 mathematical operations
 *
 */
-#ifndef __ROOTS_CUBES_H__
-#define __ROOTS_CUBES_H__
+//#ifndef __ROOTS_CUBES_H__
+//#define __ROOTS_CUBES_H__
 
 #include <stdio.h>
 #include <math.h>
@@ -17,7 +17,7 @@
 * 
 * @return Result of num1 * num1
 */
-int squr(int num1);
+int square(int num1);
 
 /**
 *  cubes the num1 and returns the result
@@ -33,7 +33,7 @@ int cube(int num1);
 *  
 * @return Result of sqrt(num1)
 */
-int squrroot(int num1);
+int squarroot(int num1);
 
 
 /**
@@ -46,4 +46,4 @@ int squrroot(int num1);
 */
 int cubroot(int num1);
 
-#endif  /* #define __CALCULATOR_OPERATIONS_H__ */
+//#endif  /* #define __CALCULATOR_OPERATIONS_H__ */

@@ -4,8 +4,8 @@
 #include<stdio.h>
 #include<math.h>
 
-
-void equation();
+int equation(float a, float b, float c);
+//void equation();
 
 
 #endif

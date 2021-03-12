@@ -1,8 +1,17 @@
-#ifndef __CALCULATOR_ARITHMETIC_H__
-#define __CALCULATOR_ARITHMETIC_H__
+#ifndef __CALCULATOR_ARITHMETIC_H
+#define __CALCULATOR_ARITHMETIC_H
 
 #include<stdio.h>
 
-void calculator_arithmetic();
+
+
+void basic_arithmetic();
+int NumberLengthCheck(double);
+double sum(double,double);/*give all function prototype*/
+double sub(double,double);
+double mul(double,double);
+double div(double,double);
+
 
 #endif
+

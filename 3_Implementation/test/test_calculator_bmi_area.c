@@ -1,8 +1,8 @@
 #include "unity.h"
-#include <calculator_operations.h>
+#include <calc_bmi_area.h>
 
 /* Modify these two lines according to the project */
-#include <calculator_operations.h>
+//#include <cal_operations.h>
 #define PROJECT_NAME    "Calculator"
 
 /* Prototypes for all the test functions */
@@ -41,19 +41,19 @@ void test_bmi(int w,int h) {
 void test_areac(int r) {
  
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(1500, areac(750, 7500));
+  TEST_ASSERT_EQUAL(50.2, areac(4));
 }
 void test_arear(int l,int b) {
-  TEST_ASSERT_EQUAL(-3, araer(0, 3));
+  TEST_ASSERT_EQUAL(-3, arear(0, 3));
   
   /* Dummy fail*/
   TEST_ASSERT_EQUAL(1, arear(1000, 900));
 }
 
 void test_areas(int s) {
-  TEST_ASSERT_EQUAL(0, areas(1, 0));
+  TEST_ASSERT_EQUAL(1, areas(1));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(2, areas(2, 5));
+  TEST_ASSERT_EQUAL(2, areas(2));
 }
 
