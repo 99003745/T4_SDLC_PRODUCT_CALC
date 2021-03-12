@@ -130,8 +130,4 @@ int valid_operation(int operation)
 
 
 
-void main()
-{
-    equation();
-    
-}
+
