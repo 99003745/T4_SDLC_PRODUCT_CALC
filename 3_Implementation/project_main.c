@@ -1,6 +1,7 @@
 #include "equation_operation.h"
-#include <calculator_operations.h>
-#include "kinjal.h"
+#include "calculator_arithmetic.h"
+#include "calc_bmi_area.h"
+#include "roots_cubes.h"
 
 
 /* Status of the operation requested */
