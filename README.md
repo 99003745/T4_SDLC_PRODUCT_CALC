@@ -9,7 +9,7 @@
 
 Build         | Code Quality     | Unity                    | Git Inspector |              
 ------------- | -----------------|--------------------------|-------------  |     
-   [![C/C++ CI](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/Cppcheck.yml)   | [![Cppcheck](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/cppcheck.yml)   |   [![Unity - Unit Testing](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/unity.yml/badge.svg)](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/unity.yml)        |  [![Cppcheck](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/cppcheck.yml)           |               
+   [![C/C++ CI](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/Cppcheck.yml)   | [![Cppcheck](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/cppcheck.yml)   |   [![Unity - Unit Testing](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/unity.yml/badge.svg)](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/unity.yml)        | |               
 
 
 ## Folder Structure
