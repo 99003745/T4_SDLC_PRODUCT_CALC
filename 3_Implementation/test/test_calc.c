@@ -1,15 +1,16 @@
 #include "unity.h"
 #include<calc_bmi_area.h>
 #include <calculator_arithmetic.h>
-#include<roots_cubes.h>
+#include"roots_cubes.h"
 #include<equation_operation.h>
-#define PROJECT_NAME    "Calculator Test"
+#define PROJECT_NAME    "Calculator_Test"
 
 void test_sum(void);
 
 void test_sub(void);
 void test_mul(void);
 void test_divide(void);
+
 
 
 void test_bmi(int w,int h);
@@ -25,7 +26,7 @@ void test_squarroot(void);
 void test_cubroot(void);
 
 
-void test_equation(void);
+//void test_equation(void);
 //void test_mod(void);
 
 /* Required by the unity test framework */
@@ -41,7 +42,7 @@ int main()
 
 /* Run Test functions */
 
-    RUN_TEST(test_equation);
+    //RUN_TEST(test_equation);
   RUN_TEST(test_sum);
   
   RUN_TEST(test_sub);

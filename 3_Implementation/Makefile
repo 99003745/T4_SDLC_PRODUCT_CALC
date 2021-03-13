@@ -12,9 +12,12 @@ src/equation_operation.c\
 src/roots_cubes.c
 
 # All test source files
-TEST_SRC = src/test_calc.c\
-test/test_calc.c\
-unity/unity.c\
+TEST_SRC =test/test_calc.c\
+src/calculator_arithmetic.c\
+src/calc_bmi_area.c\
+src/equation_operation.c\
+src/roots_cubes.c\
+unity/unity.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).exe
 
@@ -44,7 +47,7 @@ all: $(SRC) $(BUILD)
 
 # Call `make run` to run the application
 run:$(PROJECT_NAME)
-	./$(PROJECT_OUTPUT).outexe
+	./$(PROJECT_OUTPUT).exe
 
 # Document the code using Doxygen
 #doc:
@@ -52,7 +55,7 @@ run:$(PROJECT_NAME)
 
 # Build and run the unit tests
 test:$(BUILD)
-	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
+	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) 
 	./$(TEST_OUTPUT)
 
 # Remove all the built files, invoke by `make clean`
