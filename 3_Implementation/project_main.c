@@ -14,6 +14,9 @@ unsigned int calculator_operation = 0;
 /* Operands on which calculation is performed */
 int calculator_operand1 = 0;
 int calculator_operand2 = 0;
+int calculator_operand3= 0;
+//double calculator_operand4= 0;
+
 
 /* Valid operations */
 enum operations{ ADD=1, SUBTRACT, MULTIPLY, DIVIDE, EXIT };
@@ -28,17 +31,17 @@ int valid_operation(int operation);
 int main(int argc, char *argv[])
 {
     printf("\n****Calculator****\n");
-    while(1)
+    /*while(1)
     {
         calculator_menu();
-        equation();
-    }
+        //equation();
+    }*/
 }
 
 void calculator_menu(void)
 {
     printf("\nAvailable Operations\n");
-    printf("\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5. bmi\n6. areac\n7. arear\n8. areas\n 20. Exit");
+    printf("\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5. bmi\n6. areac\n7. arear\n8. areas\n 9. equation\n 10. square\n 11. cube\n 12. squareroot\n 13.cubroot\n 14. Exit");
     printf("\n\tEnter your choice\n");
    
      //__fpurge(stdin);
@@ -50,27 +53,16 @@ void calculator_menu(void)
         exit(0);
     }
 
-    if(INVALID != valid_operation(calculator_operation))
-    {
-        printf("\n\tEnter your Numbers with space between them\n");
-        //__fpurge(stdin);
-        scanf("%d %d", &calculator_operand1, &calculator_operand2);
-    }
-    else
-    {
-        printf("\n\t---Wrong choice---\nEnter to continue\n");
-        //__fpurge(stdin);
-        getchar();
-        return;
+    
         
-    }
+    
     switch(calculator_operation)
     {
         case ADD:
             printf("\n\t%d + %d = %d\nEnter to continue", 
             calculator_operand1, 
             calculator_operand2,
-            add(calculator_operand1, calculator_operand2));
+            sum(calculator_operand1, calculator_operand2));
             
            // __fpurge(stdin);
             getchar();
@@ -79,7 +71,7 @@ void calculator_menu(void)
             printf("\n\t%d - %d = %d\nEnter to continue", 
             calculator_operand1, 
             calculator_operand2,
-            subtract(calculator_operand1, calculator_operand2));
+            sub(calculator_operand1, calculator_operand2));
             
            // __fpurge(stdin);
             getchar();
@@ -88,7 +80,7 @@ void calculator_menu(void)
             printf("\n\t%d * %d = %d\nEnter to continue", 
             calculator_operand1, 
             calculator_operand2,
-            multiply(calculator_operand1, calculator_operand2));
+            mul(calculator_operand1, calculator_operand2));
             
           //  __fpurge(stdin);
             getchar();
@@ -103,19 +95,35 @@ void calculator_menu(void)
             getchar();
             break;
         case 5:
-                 bmi();
+                 bmi(calculator_operand1, calculator_operand2);
                 break;
         case 6:
-                 areac();
+                 areac(calculator_operand1);
                 break;
         case 7:
-                arear();
+                arear(calculator_operand1, calculator_operand2);
                 break;
         case 8:
-                 areas();
+                 areas(calculator_operand1);
                 break;
+        case 9:
+                 equation(calculator_operand1,calculator_operand2,calculator_operand3);
+                 break;
+        case 10:
+                square(calculator_operand1);
+                break;
+        case 11:
+                 cube(calculator_operand1);
+                break;
+        case 12:
+                squarroot(calculator_operand1);
+                break;
+        case 13:
+                cubroot(calculator_operand1);
+                break;
+
         
-        case 20:
+        case 14:
             exit(0);
             break;
         default:

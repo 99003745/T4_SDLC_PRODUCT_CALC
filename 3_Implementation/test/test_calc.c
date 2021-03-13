@@ -9,7 +9,7 @@ void test_sum(void);
 
 void test_sub(void);
 void test_mul(void);
-void test_div(void);
+void test_divide(void);
 
 
 void test_bmi(int w,int h);
@@ -46,7 +46,7 @@ int main()
   
   RUN_TEST(test_sub);
   RUN_TEST(test_mul);
-  RUN_TEST(test_div);
+  RUN_TEST(test_divide);
 
   RUN_TEST(test_bmi);
   RUN_TEST(test_areac);
@@ -84,11 +84,11 @@ void test_mul(void) {
   TEST_ASSERT_EQUAL(2.0000, mul(2, 5));
 }
 
-void test_div(void) {
-  TEST_ASSERT_EQUAL(0.0000, div(1, 0));
+void test_divide(void) {
+  TEST_ASSERT_EQUAL(0.0000, divide(1, 0));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(3.0000, div(2, 2));
+  TEST_ASSERT_EQUAL(3.0000, divide(2, 2));
 }
 
 void test_bmi(int w,int h) {

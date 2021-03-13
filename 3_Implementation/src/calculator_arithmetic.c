@@ -96,7 +96,7 @@ double mul(double num1,double num2)
     return mul;
 }
 
-double div(double num1,double num2)
+double divide(double num1,double num2)
 {
     double div;
     div=num1/num2;

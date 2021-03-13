@@ -8,10 +8,12 @@ BUILD = build
 SRC = project_main.c\
 src/calculator_arithmetic.c\
 src/calc_bmi_area.c\
+src/equation_operation.c\
+src/roots_cubes.c
 
 # All test source files
-TEST_SRC = src/calculator_operations.c\
-test/test_calculator_operations.c\
+TEST_SRC = src/test_calc.c\
+test/test_calc.c\
 unity/unity.c\
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).exe

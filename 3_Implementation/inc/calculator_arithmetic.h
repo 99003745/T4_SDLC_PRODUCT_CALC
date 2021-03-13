@@ -10,7 +10,7 @@ int NumberLengthCheck(double);
 double sum(double,double);/*give all function prototype*/
 double sub(double,double);
 double mul(double,double);
-double div(double,double);
+double divide(double,double);
 
 
 #endif
