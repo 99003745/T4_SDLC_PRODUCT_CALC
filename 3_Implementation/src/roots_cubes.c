@@ -48,7 +48,7 @@ int squarroot(int num1)
 
 
 /**
-* cuberoot the number  and returns the result 
+* cuberoots the number  and returns the result 
 * @param[in] num1 
 * @return Result of pow(num1, 1.0/3.0)
 * 
