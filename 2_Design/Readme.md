@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/78853319/107766487-8a048100-6d59-11eb-83df-ed71efbec0ee.png)
 
 # Activity Diagram LLR Diagram
-https://github.com/99003745/T4_SDLC_PRODUCT_CALC/blob/main/2_Design/LLR/nilu%20llr%20activity.png?raw=true
+![image](https://user-images.githubusercontent.com/78853340/111080938-e6a8b680-8526-11eb-9fdb-b6fe0f1abd8a.png)
 
 # Class Diagram LLR Diagram
 ![image](https://user-images.githubusercontent.com/78853319/107766582-ad2f3080-6d59-11eb-9edc-c7b1794639ef.png)
