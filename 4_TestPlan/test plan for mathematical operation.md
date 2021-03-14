@@ -3,7 +3,8 @@
 2.if denominator is 0  ---->invalid
 3.if any of input is 0  ---->invalid
 
----|---------|------------------------------------------------------|-------------------------|-----------------------------------|----------
+| TEST ID | DESCRIPTION | OUTPUT |   TYPE OF TEST    |
+|---------|-------------|--------|-------------------|
 | L_1     |    if height is 0 or negative                       |  Invalid                 |   Scenario based                  |
 | L_2     |    if weight is 0 or negative                       |  Invalid                 |   Scenario based                  |
 | L_3     |    if Radius of circle is zero or negative           |  Invalid                 |   Scenario based                  |
