@@ -26,8 +26,6 @@ void test_cubroot(void);
 void test_equation(void);
 
 
-//void test_equation(void);
-//void test_mod(void);
 
 /* Required by the unity test framework */
 void setUp(){}
@@ -142,7 +140,7 @@ void test_cubroot(void) {
   TEST_ASSERT_EQUAL(3, cubroot(27));
   
   
-  //TEST_ASSERT_EQUAL(9, cubroot(729));
+  
 }
 
 
