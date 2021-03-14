@@ -5,7 +5,7 @@
 
 1.First order equation
 
-3.Second order equation
+2.Second order equation
 
  
 
