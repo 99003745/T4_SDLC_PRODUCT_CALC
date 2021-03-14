@@ -1,7 +1,10 @@
 # Test plan Mathematical Calculation
-1 negative integers ------>invalid
-2.if denominator is 0  ---->invalid
-3.if any of input is 0  ---->invalid
+
+1.Negative integers ------>invalid
+
+2.If denominator is 0  ---->invalid
+
+3.If any of input is 0  ---->invalid
 
 | TEST ID | DESCRIPTION | OUTPUT |   TYPE OF TEST    |
 |---------|-------------|--------|-------------------|
