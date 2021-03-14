@@ -1,4 +1,3 @@
-[![Codacy Security Scan](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/codacy-analysis.yml/badge.svg)](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/codacy-analysis.yml)
 
 #  SDLC Activity Based Learning
 
@@ -8,7 +7,7 @@ Build         | Code Quality     | Unity                    | Git Inspector |
 ------------- | -----------------|--------------------------|-------------  |     
    [![C/C++ CI](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/Cppcheck.yml)   | [![Cppcheck](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/cppcheck.yml)   |   [![Unity - Unit Testing](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/unity.yml/badge.svg)](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/unity.yml)        |[![Contribution Check - Git Inspector](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/gitinspector1.yml/badge.svg)](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/gitinspector1.yml) |               
 
-
+[![Codacy Security Scan](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/codacy-analysis.yml/badge.svg)](https://github.com/99003745/T4_SDLC_PRODUCT_CALC/actions/workflows/codacy-analysis.yml)
 ## Folder Structure
 Folder        | description
 --------------| ----------------------------------------------
