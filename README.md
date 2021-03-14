@@ -39,5 +39,6 @@ PS No.        | Name             | Features             | Issues Raised| Issues 
 
 ## Git Inspector Data:
 
-![image](https://user-images.githubusercontent.com/78853340/111080331-fe327000-8523-11eb-889a-94b86551a091.png)
+![image](https://user-images.githubusercontent.com/78853340/111081526-c5959500-8529-11eb-9e75-e5c6ef33b1be.png)
+
 
