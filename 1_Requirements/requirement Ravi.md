@@ -1,9 +1,10 @@
 ﻿# High level requirement
 
-1.equations
+1.Equations
 # Low level requirement
-1.1st order
-2.2nd order
+
+1.First order equation
+2.Second order equation
 
  
 
