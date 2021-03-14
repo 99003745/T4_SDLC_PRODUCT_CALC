@@ -57,7 +57,7 @@ int squarroot(int num1)
 */
 int cubroot(int num1)
 {
-    return(pow(num1,1.0/3.0));
+    return(pow(num1,(1.0/3.0)));      
 }
 
 //#endif  /* #define __CALCULATOR_OPERATIONS_H__ */

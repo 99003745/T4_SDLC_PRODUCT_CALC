@@ -6,7 +6,6 @@
 #define PROJECT_NAME    "Calculator_Test"
 
 void test_sum(void);
-
 void test_sub(void);
 void test_mul(void);
 void test_divide(void);
@@ -14,16 +13,17 @@ void test_divide(void);
 
 
 void test_bmi(int w,int h);
-void test_areac(int r);
+void test_areac(float r);
 void test_arear(int l,int b);
 void test_areas(int s);
 
 
 void test_square(void);
-
 void test_cube(void);
 void test_squarroot(void);
 void test_cubroot(void);
+
+void test_equation(void);
 
 
 //void test_equation(void);
@@ -42,9 +42,9 @@ int main()
 
 /* Run Test functions */
 
-    //RUN_TEST(test_equation);
+  RUN_TEST(test_equation);
+
   RUN_TEST(test_sum);
-  
   RUN_TEST(test_sub);
   RUN_TEST(test_mul);
   RUN_TEST(test_divide);
@@ -58,9 +58,6 @@ int main()
   RUN_TEST(test_cube);
   RUN_TEST(test_squarroot);
   RUN_TEST(test_cubroot);
-  
-  
-  //RUN_TEST(test_mod);
 
    return UNITY_END();
 }
@@ -74,45 +71,45 @@ void test_sum(void) {
 void test_sub(void) {
   TEST_ASSERT_EQUAL(-3.0000, sub(0, 3));
   
-  /* Dummy fail*/
-  TEST_ASSERT_EQUAL(1.0000, sub(1000, 900));
+  
+  TEST_ASSERT_EQUAL(100.0000, sub(1000, 900));
 }
 
 void test_mul(void) {
   TEST_ASSERT_EQUAL(0.0000, mul(1, 0));
   
-  /* Dummy fail*/
-  TEST_ASSERT_EQUAL(2.0000, mul(2, 5));
+  
+  TEST_ASSERT_EQUAL(10.0000, mul(2, 5));
 }
 
 void test_divide(void) {
-  TEST_ASSERT_EQUAL(0.0000, divide(1, 0));
+  TEST_ASSERT_EQUAL(0.0000, divide(0,1));
   
-  /* Dummy fail*/
-  TEST_ASSERT_EQUAL(3.0000, divide(2, 2));
+  
+  TEST_ASSERT_EQUAL(1.0000, divide(2, 2));
 }
 
 void test_bmi(int w,int h) {
-  TEST_ASSERT_EQUAL(30, bmi(10, 20));
-  TEST_ASSERT_EQUAL(-10, bmi(10, -20));
+  TEST_ASSERT_EQUAL(1, bmi(100, 10));
+  TEST_ASSERT_EQUAL(2, bmi(800,20));
 }
-void test_areac(int r) {
+void test_areac(float r) {
  
-  /* Dummy fail*/
-  TEST_ASSERT_EQUAL(50.2, areac(4));
+  
+  TEST_ASSERT_EQUAL(50.28, areac(4));
 }
 void test_arear(int l,int b) {
-  TEST_ASSERT_EQUAL(-3, arear(0, 3));
+  TEST_ASSERT_EQUAL(33, arear(11, 3));
   
-  /* Dummy fail*/
-  TEST_ASSERT_EQUAL(1, arear(1000, 900));
+  
+  TEST_ASSERT_EQUAL(900000, arear(1000, 900));
 }
 
 void test_areas(int s) {
   TEST_ASSERT_EQUAL(1, areas(1));
   
-  /* Dummy fail*/
-  TEST_ASSERT_EQUAL(2, areas(2));
+  
+  TEST_ASSERT_EQUAL(4, areas(2));
 }
 
 
@@ -122,45 +119,35 @@ void test_square(void) {
 }
 
 
-/*void test_equation(void)
+void test_equation(void)
 {
-    TEST_ASSERT_EQUAL(3, equation(1,2,3));
-}*/
+    TEST_ASSERT_EQUAL(-2, equation(1,-5,-14));
+}
 
 void test_cube(void) {
   TEST_ASSERT_EQUAL(27, cube(3));
   
-  /* Dummy fail*/
-  TEST_ASSERT_EQUAL(1, cube(10));
+  
+  TEST_ASSERT_EQUAL(1000, cube(10));
 }
 
 void test_squarroot(void) {
   TEST_ASSERT_EQUAL(2, squarroot(4));
   
-  /* Dummy fail*/
-  TEST_ASSERT_EQUAL(4, squarroot(9));
+  
+  TEST_ASSERT_EQUAL(3, squarroot(9));
 }
 
 void test_cubroot(void) {
-  TEST_ASSERT_EQUAL(3, cubroot(9));
+  TEST_ASSERT_EQUAL(3, cubroot(27));
   
-  /* Dummy fail*/
-  TEST_ASSERT_EQUAL(2, cubroot(11));
+  
+  //TEST_ASSERT_EQUAL(9, cubroot(729));
 }
 
 
 
-  /* Dummy fail*/
- // TEST_ASSERT_EQUAL(2, cubroot(11));
 
 
 
 
-/*
-void test_mod(void) {
-  TEST_ASSERT_EQUAL(0.0000, mod(1, 0));
-  
-   
-  TEST_ASSERT_EQUAL(3.0000, mod(2, 2));
-}
-*/

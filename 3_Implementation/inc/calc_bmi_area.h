@@ -5,7 +5,7 @@
 #include <stdlib.h>
 
 int bmi(int w,int h);
-float areac(int r);
+float areac(float r);
 int arear(int l,int b);
 int areas(int s);
 //#endif 

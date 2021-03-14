@@ -16,7 +16,7 @@ int bmi(int w,int h)
         return (w/(h*h));
 }
 
-float areac(int r)
+float areac(float r)
 {
     /*
     printf("Radius of circle:\n");
@@ -25,8 +25,8 @@ float areac(int r)
     if(0 == r)
         printf("invalid");
     else
-        printf("Area of circle = %d\n",(22/7)*(r*r));
-        return ((22/7)*(r*r));
+        printf("Area of circle = %d\n",(3.14)*(r*r));
+        return ((3.14)*(r*r));
 }
 
 int arear(int l, int b)

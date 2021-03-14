@@ -10,7 +10,7 @@ void tearDown(){}
 int main()
 {
     int bmi(int w,int h);
-float areac(int r);
+float areac(float r);
 int arear(int l,int b);
 int areas(int s);
 void basic_arithmetic();
@@ -23,6 +23,7 @@ int equation(float a, float b, float c);
 int square(int num1);
 int squarroot(int num1);
 int cubroot(int num1);
+int cube(int num1);
 }
 
 
