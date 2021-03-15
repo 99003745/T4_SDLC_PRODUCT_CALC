@@ -17,6 +17,8 @@
 **THREATS**
  · Can't be used in scientific research works.
 
+## SwOT
+![image](https://user-images.githubusercontent.com/78848744/111102164-6d828100-8571-11eb-87a9-f52a616a1a37.png)
 
 
 
