@@ -71,8 +71,9 @@ It is the most basic type of calculator where basic operations are done using be
 
  - This minimizes the user time for performing fast calculation of equations.
 
+## SWOT Analysis
 
-
+![image](https://user-images.githubusercontent.com/78848744/111102045-2eecc680-8571-11eb-8c68-c7d33808104d.png)
 
 
 # High Level Requirement
