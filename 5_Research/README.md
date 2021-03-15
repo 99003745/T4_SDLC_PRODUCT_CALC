@@ -48,6 +48,7 @@ It is the most basic type of calculator where basic operations are done using be
 
 **THREATS**  
 · Can't be used in scientific research works
+![image](https://user-images.githubusercontent.com/78848744/111102204-87bc5f00-8571-11eb-997d-e0c823794a45.png)
 
 
 ## What
