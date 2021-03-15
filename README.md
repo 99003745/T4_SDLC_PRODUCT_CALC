@@ -38,7 +38,9 @@ PS No.        | Name             | Features             | Issues Raised| Issues 
 4. github workflow
 
 ## Git Inspector Data:
+![image](https://user-images.githubusercontent.com/78853340/111105327-b8ec5d80-8578-11eb-8842-02b763106c95.png)
 
-![image](https://user-images.githubusercontent.com/78853340/111081526-c5959500-8529-11eb-9e75-e5c6ef33b1be.png)
+
+
 
 
