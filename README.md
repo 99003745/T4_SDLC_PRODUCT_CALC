@@ -20,7 +20,7 @@ Folder        | description
 PS No.        | Name             | Features             | Issues Raised| Issues Resolved | No. Of Test Cases            
 ------------- | -----------------|--------------------  | -------------|-------------     |----------| 
 99003748      | Nilanjana Das    |Roots and Power       | 3             | 3               |3
-99003744      | Kinjal Kundu     |BMI   and area of figures|1           |      1          |3
+99003744      | Kinjal Kundu     |BMI   and area of figures|1           |      1          |4
 99003745      | Ujjawal Kumar    |Arithematic functions |1              |1               |4
 99003747      | Ravikumar M Pise |Second order Equations|2              |2               |4
 
